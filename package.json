@@ -1,0 +1,13 @@
+{
+  "name": "agent-platform",
+  "version": "1.0.0",
+  "description": "垂直领域Agent+编排平台",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "jest"
+  },
+  "keywords": ["agent", "ai", "orchestration"],
+  "author": "",
+  "license": "MIT"
+}
